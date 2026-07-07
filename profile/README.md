@@ -8,7 +8,7 @@ Always-On Security is a containerized, multi-layer security monitoring and enfor
 
 The primary repository containing the complete platform implementation, including the security monitoring pipeline, risk engine, dashboard, deployment configuration, and supporting services.
 
-### Always-On-Security-Resources
+### HPE-CPP-Resources
 
 Supporting documentation, architecture references, setup guides, and additional resources for contributors working on the main project.
 
